@@ -1,0 +1,17 @@
+C:\Users\dungl\source\repos\WPF.ContosoUniversity\WPF.Model\bin\Debug\netcoreapp3.0\WPF.Model.deps.json
+C:\Users\dungl\source\repos\WPF.ContosoUniversity\WPF.Model\bin\Debug\netcoreapp3.0\WPF.Model.dll
+C:\Users\dungl\source\repos\WPF.ContosoUniversity\WPF.Model\bin\Debug\netcoreapp3.0\WPF.Model.pdb
+C:\Users\dungl\source\repos\WPF.ContosoUniversity\WPF.Model\bin\Debug\netcoreapp3.0\FE.Advanture.Pattern.Services.dll
+C:\Users\dungl\source\repos\WPF.ContosoUniversity\WPF.Model\bin\Debug\netcoreapp3.0\LinqKit.Microsoft.EntityFrameworkCore.dll
+C:\Users\dungl\source\repos\WPF.ContosoUniversity\WPF.Model\bin\Debug\netcoreapp3.0\Repository.Pattern.EF.dll
+C:\Users\dungl\source\repos\WPF.ContosoUniversity\WPF.Model\bin\Debug\netcoreapp3.0\Unity.ServiceLocation.dll
+C:\Users\dungl\source\repos\WPF.ContosoUniversity\WPF.Model\bin\Debug\netcoreapp3.0\WPF.Common.dll
+C:\Users\dungl\source\repos\WPF.ContosoUniversity\WPF.Model\bin\Debug\netcoreapp3.0\PresentationCore.dll
+C:\Users\dungl\source\repos\WPF.ContosoUniversity\WPF.Model\bin\Debug\netcoreapp3.0\WPF.Common.pdb
+C:\Users\dungl\source\repos\WPF.ContosoUniversity\WPF.Model\obj\Debug\netcoreapp3.0\WPF.Model.csprojAssemblyReference.cache
+C:\Users\dungl\source\repos\WPF.ContosoUniversity\WPF.Model\obj\Debug\netcoreapp3.0\WPF.Model.csproj.CoreCompileInputs.cache
+C:\Users\dungl\source\repos\WPF.ContosoUniversity\WPF.Model\obj\Debug\netcoreapp3.0\WPF.Model.AssemblyInfoInputs.cache
+C:\Users\dungl\source\repos\WPF.ContosoUniversity\WPF.Model\obj\Debug\netcoreapp3.0\WPF.Model.AssemblyInfo.cs
+C:\Users\dungl\source\repos\WPF.ContosoUniversity\WPF.Model\obj\Debug\netcoreapp3.0\WPF.Model.csproj.CopyComplete
+C:\Users\dungl\source\repos\WPF.ContosoUniversity\WPF.Model\obj\Debug\netcoreapp3.0\WPF.Model.dll
+C:\Users\dungl\source\repos\WPF.ContosoUniversity\WPF.Model\obj\Debug\netcoreapp3.0\WPF.Model.pdb

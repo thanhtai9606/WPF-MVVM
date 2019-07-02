@@ -1,0 +1,6 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:local="clr-namespace:WPF.ContosoUniversity.ResourceXAML"
+                    xmlns:viewModel="clr-namespace:WPF.ViewModel;assembly=WPF.ViewModel">
+    <viewModel:StudentViewModel x:Key="StudentVM"></viewModel:StudentViewModel>
+</ResourceDictionary>

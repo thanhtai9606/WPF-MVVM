@@ -1,0 +1,28 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="2.2.2" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Relational" Version="2.2.2" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\WPF.Common\WPF.Common.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="FE.Advanture.Pattern.Services">
+      <HintPath>..\lib\FE.Advanture.Pattern.Services.dll</HintPath>
+    </Reference>
+    <Reference Include="Repository.Pattern.EF">
+      <HintPath>..\lib\Repository.Pattern.EF.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.ServiceLocation">
+      <HintPath>..\lib\Unity.ServiceLocation.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

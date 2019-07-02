@@ -1,0 +1,21 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\WPF.Contract\WPF.Contract.csproj" />
+    <ProjectReference Include="..\WPF.Model\WPF.Model.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="FE.Advanture.Pattern.Services">
+      <HintPath>..\lib\FE.Advanture.Pattern.Services.dll</HintPath>
+    </Reference>
+    <Reference Include="Repository.Pattern.EF">
+      <HintPath>..\lib\Repository.Pattern.EF.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

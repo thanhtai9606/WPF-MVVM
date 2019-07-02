@@ -1,0 +1,11 @@
+C:\Users\dungl\source\repos\WPF.ContosoUniversity\WPF.Common\bin\Debug\netcoreapp3.0\WPF.Common.deps.json
+C:\Users\dungl\source\repos\WPF.ContosoUniversity\WPF.Common\bin\Debug\netcoreapp3.0\WPF.Common.dll
+C:\Users\dungl\source\repos\WPF.ContosoUniversity\WPF.Common\bin\Debug\netcoreapp3.0\WPF.Common.pdb
+C:\Users\dungl\source\repos\WPF.ContosoUniversity\WPF.Common\bin\Debug\netcoreapp3.0\PresentationCore.dll
+C:\Users\dungl\source\repos\WPF.ContosoUniversity\WPF.Common\obj\Debug\netcoreapp3.0\WPF.Common.csproj.CoreCompileInputs.cache
+C:\Users\dungl\source\repos\WPF.ContosoUniversity\WPF.Common\obj\Debug\netcoreapp3.0\WPF.Common.AssemblyInfoInputs.cache
+C:\Users\dungl\source\repos\WPF.ContosoUniversity\WPF.Common\obj\Debug\netcoreapp3.0\WPF.Common.AssemblyInfo.cs
+C:\Users\dungl\source\repos\WPF.ContosoUniversity\WPF.Common\obj\Debug\netcoreapp3.0\WPF.Common.csproj.CopyComplete
+C:\Users\dungl\source\repos\WPF.ContosoUniversity\WPF.Common\obj\Debug\netcoreapp3.0\WPF.Common.dll
+C:\Users\dungl\source\repos\WPF.ContosoUniversity\WPF.Common\obj\Debug\netcoreapp3.0\WPF.Common.pdb
+C:\Users\dungl\source\repos\WPF.ContosoUniversity\WPF.Common\obj\Debug\netcoreapp3.0\WPF.Common.csprojAssemblyReference.cache
